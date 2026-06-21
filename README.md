@@ -1,4 +1,4 @@
-##Password Generator
+# = Password Generator
 
 This project was developed as part of the Front-End Development Internship conducted by QSkill and SR India Pvt. Ltd.
 
@@ -7,7 +7,7 @@ It generated random strings which depends on the criteria's choosen by the user 
 
 
 
-Features
+## = Features
 
 - Generate secure random passwords
 - Adjustable password length
@@ -19,22 +19,22 @@ Features
 - Copy password to clipboard
 - Responsive and modern user interface
 
-Technologies Used
+## =Technologies Used
 
 - React
 - JavaScript (ES6+)
 - CSS3
 - Vite
 
-##Screenshot
-![Password Genereator]
-(password-generator.png)
+## = Screenshot
+
+![Password Genereator](password-generator.png)
 
 
 
 
 
-Learning Outcomes
+##= Learning Outcomes
 
 Through this project, the following concepts were practiced:
 
@@ -45,7 +45,7 @@ Through this project, the following concepts were practiced:
 - Responsive UI Design
 
 
-Author
+### Author
 
 Elsi C Pate
 
