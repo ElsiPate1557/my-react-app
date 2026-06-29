@@ -44,5 +44,5 @@ It generated random strings which depends on the criteria's choosen by the user 
 
 ### Author
 
-Elsi C Pate
+Elsi C Pate , 
 BTech Computer Science
